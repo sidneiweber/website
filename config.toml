@@ -1,7 +1,6 @@
 baseURL = "https://sidneiweber.github.io"
 title   = "Sidnei Weber"
 languageCode = "en-us"
-timeout = 100000
 
 theme = "hello-friend-ng"
 disqusShortname = "sidneiweber"
@@ -126,7 +125,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/sidnei"
+    logoText     = "$ cd /home/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
