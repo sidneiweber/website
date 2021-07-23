@@ -1,4 +1,4 @@
-baseURL = "https://sidneiweber.com.br"
+baseURL = "https://sidneiweber.github.io"
 title   = "Sidnei Weber"
 languageCode = "en-us"
 timeout = 100000
