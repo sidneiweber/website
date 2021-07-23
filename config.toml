@@ -35,7 +35,7 @@ disableHugoGeneratorInject = false
 
 [permalinks]
   #posts = "/posts/:year/:month/:title/"
-  posts = "/:title/"
+  posts = "/:filename/"
 
 [author]
   name = "Sidnei Weber"
