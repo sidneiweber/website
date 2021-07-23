@@ -28,7 +28,7 @@ jobs:
         if: ${{ steps.build.outcome == 'success' && github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: sidneiweber/sidneiweber.github.io
           publish_dir: ./public
           user_name: sidneiweber
