@@ -1,0 +1,219 @@
+// Inter UI
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Inter-UI/Inter-UI-Regular.woff2") format("woff2"),
+    url("../fonts/Inter-UI/Inter-UI-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter UI";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Inter-UI/Inter-UI-Italic.woff2") format("woff2"),
+    url("../fonts/Inter-UI/Inter-UI-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/Inter-UI/Inter-UI-Medium.woff2") format("woff2"),
+    url("../fonts/Inter-UI/Inter-UI-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter UI";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/Inter-UI/Inter-UI-MediumItalic.woff2") format("woff2"),
+    url("../fonts/Inter-UI/Inter-UI-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Inter-UI/Inter-UI-Bold.woff2") format("woff2"),
+    url("../fonts/Inter-UI/Inter-UI-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter UI";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Inter-UI/Inter-UI-BoldItalic.woff2") format("woff2"),
+    url("../fonts/Inter-UI/Inter-UI-BoldItalic.woff") format("woff");
+}
+
+// Bookerly
+
+@font-face {
+  font-family: "Bookerly";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Bookerly/Bookerly-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Bookerly";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Bookerly/Bookerly-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Bookerly";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Bookerly/Bookerly-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Bookerly";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Bookerly/Bookerly-BoldItalic.woff") format("woff");
+}
+
+// Hack
+
+@font-face {
+  font-family: "Hack";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Hack/Hack-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Hack";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Hack/Hack-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Hack";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Hack/Hack-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Hack";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Hack/Hack-BoldItalic.woff") format("woff");
+}
+
+// Cascadia
+
+@font-face {
+  font-family: "Cascadia";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Cascadia/CascadiaCodePL-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Cascadia";
+  font-style: italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Cascadia/CascadiaCodePL-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Cascadia";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Cascadia/CascadiaCodePL-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Cascadia";
+  font-style: normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/Cascadia/CascadiaCodePL-SemiBold.woff2") format("woff2");
+}
+
+// Geomanist
+// From https://github.com/vasilenka/ucp-ssr/tree/master/src/app/assets/fonts/geomanist
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Thin.woff") format("woff");
+  font-display: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-ExtraLight.woff") format("woff");
+  font-display: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Light.woff") format("woff");
+  font-display: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Regular.woff") format("woff");
+  font-display: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Book.woff") format("woff");
+  font-display: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Medium.woff") format("woff");
+  font-display: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Bold.woff") format("woff");
+  font-display: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Black.woff") format("woff");
+  font-display: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "geomanist";
+  src: url("../fonts/Geomanist/Geomanist-Ultra.woff") format("woff");
+  font-display: auto;
+  font-weight: 900;
+  font-style: normal;
+}

@@ -1,0 +1,7 @@
+# We use the generated html to prevent issues involving markdown frontmatter
+{{ range site.RegularPages }}
+[[input.files]]
+path = ".{{ .RelPermalink }}index.html"
+url = "{{ .Permalink }}"
+title = "{{ .Title }}"
+{{ end }}
