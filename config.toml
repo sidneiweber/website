@@ -209,7 +209,3 @@ disableHugoGeneratorInject = false
   #   identifier = "scp-facil"
   #   name = "SCP Fácil"
   #   url = "/scp-facil"
-  [[menu.main]]
-    identifier = "RSS"
-    name = "RSS"
-    url = "/index.xml"
