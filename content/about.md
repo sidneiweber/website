@@ -5,7 +5,7 @@ permalink: /sobre/
 weight: 1
 ---
 
-![Sidnei ><](https://avatars0.githubusercontent.com/u/6644629?s=460&u=093900f59ccadb32ea978d93e00a5cdda11d5dce&v=4)
+![Sidnei ><](/img/sidnei.png)
 
 Olá eu sou **Sidnei Weber** :wave:.
 
