@@ -5,6 +5,9 @@ description: 'Muito além das métricas de CPU e memória podemos ter métricas 
 date: '2023-02-02 16:00:00'
 tags: [observabilidade, devops, sre]
 author: Sidnei Weber
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg"
 ---
 
 Muito além das métricas de CPU e memória podemos ter métricas efetivas e que nos ajudam a entender a saúde do nosso ambiente e resolver problemas de forma mais rápida caso eles ocorram.
