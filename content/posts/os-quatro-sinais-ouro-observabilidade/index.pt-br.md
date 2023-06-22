@@ -12,9 +12,9 @@ resources:
 
 Muito além das métricas de CPU e memória podemos ter métricas efetivas e que nos ajudam a entender a saúde do nosso ambiente e resolver problemas de forma mais rápida caso eles ocorram.
 
-Nos primórdios (que não faz tanto tempo assim) as aplicações tinham pouca ou quase nenhuma monitoração. Quando tinham alguma monitoração, tinhamos somente informações básicas de hardware, rede e com alguma sorte quando algum serviço ficava indisponivel. Com a mudanças de serviços únicos (monolitos) para centenas ou até milhares de microserviços, ambientes complexos, velozes, na nuvem e com uma visibilidade cada vez mais difícil, foi necessário mudar os padrões de indicadores para algo mais efetivo para quem mais sofre, o usuário/cliente.
+Nos primórdios (que não faz tanto tempo assim) as aplicações tinham pouca ou quase nenhuma monitoração. Quando tinham alguma monitoração, tínhamos somente informações básicas de hardware, rede e com alguma sorte quando algum serviço ficava indisponível. Com as mudanças de serviços únicos (monolitos) para centenas ou até milhares de microserviços, ambientes complexos, velozes, na nuvem e com uma visibilidade cada vez mais difícil, foi necessário mudar os padrões de indicadores para algo mais efetivo para quem mais sofre, o usuário/cliente.
 
-Após o Google disponibilizar seu [livro sobre SRE](https://sre.google/sre-book/table-of-contents/) a engenharia de confiabilidade vem se tornando algo cada vez mais presente e necessário. Um dos principais pontos do livro e que iremos comentar aqui é sobre os [quatro sinais de ouro](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals) da observabilidade.
+Após o Google disponibilizar seu [livro sobre SRE](https://sre.google/sre-book/table-of-contents/) a engenharia de confiabilidade vem se tornando algo cada vez mais presente e necessário. Um dos principais pontos do livro que iremos comentar aqui é sobre os [quatro sinais de ouro](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals) da observabilidade.
 
 ## O que é
 
@@ -26,7 +26,7 @@ A latência é uma métrica que impacta diretamente o usuário, ela mede o tempo
 
 ### Tráfego
 
-Nessa métrica medimos basicamente a quantidade de acessos que um sistema ou site recebe, mas pode depender do tipo do sistema que estamos falando, como por exemplo um serviço de streaming, onde o tráfego pode ser baseado na taxa de rede ou sessões simultâneas.
+Nessa métrica medimos basicamente a quantidade de acessos que um sistema ou site recebe, mas pode depender do tipo do sistema que estamos falando como, por exemplo, um serviço de streaming, onde o tráfego pode ser baseado na taxa de rede ou sessões simultâneas.
 
 ### Erros
 
@@ -34,7 +34,7 @@ Aqui medimos a quantidade de erros de um sistema ou aplicação. Vale ressaltar 
 
 ### Saturação
 
-Na saturação podemos saber o quanto os recursos estão ocupados, como CPU, memória e disco por exemplo, e novamente, tudo depende do ambiente envolvido. Se o sistema exigir mais memória, devemos medir com mais atenção esse ponto. Outro ponto muito importante é testar e saber em que ponto o sistema começa a sofrer com degradação, se é perto dos 100% ou é antes dos 90% ou após determinado período. A saturação também pode ajudar com previsões de problemas, como o disco ficará cheio dentro de 2 dias, baseado nas métricas que já possui.
+Na saturação podemos saber o quanto os recursos estão ocupados, como CPU, memória e disco, por exemplo, e novamente, tudo depende do ambiente envolvido. Se o sistema exigir mais memória, devemos medir com mais atenção esse ponto. Outro ponto muito importante é testar e saber em que ponto o sistema começa a sofrer com degradação, se é perto dos 100% ou é antes dos 90%, ou após determinado período. A saturação também pode ajudar com previsões de problemas, como o disco ficará cheio dentro de 2 dias, baseado nas métricas que já possui.
 
 É claro que essas informações sozinhas podem não entregar valor mas bem aplicadas e organizadas podem gerar muita confiança nos sistemas observados. Temos ainda diversos outros pontos que podem complementar esses pontos vistos aqui, como logs, traces, a própria ferramenta de alertas, entre outros. Mas veremos esses pontos em outra oportunidade.
 

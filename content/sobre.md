@@ -44,4 +44,4 @@ Sou estudante de Segurança da Informação, apaixonado por software livre, semp
 ![](/img/certificacoes.png)
 
 ## Cursos
-> Cursando Segurança da Informação - UNIP (Previsão de conclusão 2021)
+> Tecnólogo em Segurança da Informação - UNIP (Concluído em 2022)
