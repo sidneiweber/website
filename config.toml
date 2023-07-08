@@ -674,7 +674,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "Tools"
         name = "tools"
         post = ""
-        url = "#"
+        url = "/tools/"
         [languages.en.menu.main.params]
           icon = "fa-solid fa-screwdriver-wrench"
       [[languages.en.menu.main]]
