@@ -679,11 +679,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           icon = "fa-solid fa-screwdriver-wrench"
       [[languages.en.menu.main]]
         weight = 1
-        identifier = "Password Generator"
-        name = "password-generator"
+        identifier = "password-generator"
+        name = "Password Generator"
         post = ""
         url = "/password-generator/"
         parent = "tools"
+        [languages.en.menu.main.params]
+          icon = "fa-solid fa-lock"
       [[languages.en.menu.main]]
         weight = 5
         identifier = "about"
