@@ -657,7 +657,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Posts"
         url = "/posts/"
         title = ""
-        [main.params]
+        [languages.en.menu.main.params]
           icon = "fa-solid fa-tent"
       [[languages.en.menu.main]]
         weight = 2
@@ -667,7 +667,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Tags"
         url = "/tags/"
         title = ""
-        [main.params]
+        [languages.en.menu.main.params]
           icon = "fa-solid fa-tags"
       [[languages.en.menu.main]]
         weight = 5
@@ -677,7 +677,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Sobre"
         url = "/sobre/"
         title = ""
-        [main.params]
+        [languages.en.menu.main.params]
           icon = "fa-solid fa-user"
       [[languages.en.menu.main]]
         weight = 6
