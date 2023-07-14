@@ -3,7 +3,7 @@ title = "Sidnei Weber"
 theme = "FixIt"
 
 defaultContentLanguage = "pt-br"
-languageCode = "en-us"
+languageCode = "pt-BR"
 languageName = "Portuguese"
 
 paginate = 12
