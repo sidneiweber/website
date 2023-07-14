@@ -644,7 +644,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # 多语言
 [languages]
   [languages.en]
-    weight = 1
+    weight = 2
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
