@@ -3,6 +3,7 @@ title = "Sobre mim"
 description = "Um pouco sobre mim"
 aliases = ["about", "sobre", "contact", "contato"]
 author = "Sidnei Weber"
+slug = "/sobre/"
 +++
 
 <p align="center">
