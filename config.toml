@@ -2,7 +2,8 @@ baseURL = "https://sidneiweber.com.br"
 title = "Sidnei Weber"
 theme = "FixIt"
 
-languageCode = "en-us"
+defaultContentLanguage = "pt-br"
+languageCode = "pt-BR"
 languageName = "Portuguese"
 
 paginate = 12
@@ -687,12 +688,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.menu.main.params]
           icon = "fa-solid fa-lock"
       [[languages.en.menu.main]]
+        weight = 4
+        identifier = "cheatsheet"
+        pre = ""
+        post = ""
+        name = "Cheat Sheet"
+        url = "/cheat-sheet/"
+        title = ""
+        [languages.en.menu.main.params]
+          icon = "fa-solid fa-truck-fast"
+      [[languages.en.menu.main]]
         weight = 5
         identifier = "about"
         pre = ""
         post = ""
-        name = "Sobre"
-        url = "/sobre/"
+        name = "About"
+        url = "/about/"
         title = ""
         [languages.en.menu.main.params]
           icon = "fa-solid fa-user"
@@ -725,11 +736,123 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/img/sidnei.png"
           title = ""
-          subtitle = "Do Sysadmin ao DevOps"
+          subtitle = "From Sysadmin to DevOps"
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
+        GitHub = "sidneiweber"
+        Linkedin = "sidnei-weber"
+        #Twitter = "xxxx"
+        #Instagram = "xxxx"
+        #Facebook = "xxxx"
+        #Telegram = "xxxx"
+        #Youtubelegacy = "xxxx"
+        #Phone = "555-555-555"
+        Email = "sidnei@gmail.com"
+        RSS = true
+        #[languages.en.params.social.Mastodon]
+        #  id = "@xxxx"
+        #  prefix = "https://mastodon.technology/"
+
+  [languages.pt-br]
+    weight = 2
+    languageCode = "pt-br"
+    languageName = "Português"
+    hasCJKLanguage = false
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    [languages.pt-br.menu]
+      [[languages.pt-br.menu.main]]
+        weight = 1
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Artigos"
+        url = "/posts/"
+        title = ""
+        [languages.pt-br.menu.main.params]
+          icon = "fa-solid fa-tent"
+      [[languages.pt-br.menu.main]]
+        weight = 2
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        [languages.pt-br.menu.main.params]
+          icon = "fa-solid fa-tags"
+      [[languages.pt-br.menu.main]]
+        weight = 3
+        identifier = "tools"
+        name = "Ferramentas"
+        post = ""
+        url = "#"
+        [languages.pt-br.menu.main.params]
+          icon = "fa-solid fa-screwdriver-wrench"
+      [[languages.pt-br.menu.main]]
+        weight = 1
+        identifier = "password-generator"
+        name = "Gerador de senhas"
+        post = ""
+        url = "/gerador-senhas/"
+        parent = "tools"
+        [languages.pt-br.menu.main.params]
+          icon = "fa-solid fa-lock"
+      [[languages.pt-br.menu.main]]
+        weight = 4
+        identifier = "guia-rapido"
+        pre = ""
+        post = ""
+        name = "Guia Rápido"
+        url = "/guia-rapido/"
+        title = ""
+        [languages.pt-br.menu.main.params]
+          icon = "fa-solid fa-truck-fast"
+      [[languages.pt-br.menu.main]]
+        weight = 5
+        identifier = "about"
+        pre = ""
+        post = ""
+        name = "Sobre"
+        url = "/sobre/"
+        title = ""
+        [languages.pt-br.menu.main.params]
+          icon = "fa-solid fa-user"
+      [[languages.pt-br.menu.main]]
+        weight = 6
+        identifier = "github"
+        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "https://github.com/sidneiweber"
+        title = "GitHub"
+    [languages.pt-br.params]
+      [languages.pt-br.params.search]
+        enable = true
+        type = "lunr"
+        contentLength = 4000
+        placeholder = ""
+        maxResultLength = 10
+        snippetLength = 30
+        highlightTag = "em"
+        absoluteURL = false
+        #[languages.en.params.search.algolia]
+        #  index = "index.en"
+        #  appID = "PASDMWALPK"
+        #  searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+      [languages.pt-br.params.home]
+        rss = 10
+        [languages.pt-br.params.home.profile]
+          enable = true
+          gravatarEmail = ""
+          avatarURL = "/img/sidnei.png"
+          title = ""
+          subtitle = "Do Sysadmin ao DevOps"
+          typeit = true
+          social = true
+          disclaimer = ""
+      [languages.pt-br.params.social]
         GitHub = "sidneiweber"
         Linkedin = "sidnei-weber"
         #Twitter = "xxxx"
