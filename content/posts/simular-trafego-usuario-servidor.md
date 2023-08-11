@@ -8,6 +8,7 @@ date: '2021-06-09 11:00:00'
 tags: [linux]
 author: Sidnei Weber
 ---
+<!--more-->
 
 Vamos simular o tráfego para um servidor utlizando a ferramenta `ab` que foi criado pelo Apache para testar seu próprio serviço.
 
