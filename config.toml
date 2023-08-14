@@ -8,7 +8,7 @@ languageName = "Portuguese"
 
 paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
-googleAnalyticsID = "G-3P5DQB14L7"
+googleAnalytics = "G-3P5DQB14L7"
 # copyright description used only for seo schema
 copyright = ""
 # whether to use robots.txt
@@ -515,7 +515,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = true
+    enable = false
     # Google Analytics
     [params.analytics.google]
       id = "G-3P5DQB14L7"
