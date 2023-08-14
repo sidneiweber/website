@@ -8,7 +8,7 @@ languageName = "Portuguese"
 
 paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
-googleAnalyticsID = "G-332343290"
+googleAnalyticsID = "G-3P5DQB14L7"
 # copyright description used only for seo schema
 copyright = ""
 # whether to use robots.txt
@@ -518,7 +518,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # Google Analytics
     [params.analytics.google]
-      id = "G-332343290"
+      id = "G-3P5DQB14L7"
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
