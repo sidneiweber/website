@@ -54,7 +54,7 @@ Mas lembre-se, é muito importante que essa POC tenha como objetivo trazer algum
 
 # Passagem de conhecimento
 
-Além da parte de documentação citada anteriormente, também é possível realizar apresentações/workshops com seu time ou empresa para passar conhecimento, mostrar os serviços realizadas e as melhorias que você vem trazendo. Dê muita atenção aos colegas de time que estão começando, dedique um tempo para ensiná-los da forma correta, tenho certeza que muitos lembraram de você estiverem em outras empresas.
+Além da parte de documentação citada anteriormente, também é possível realizar apresentações/workshops com seu time ou empresa para passar conhecimento, mostrar os serviços realizadas e as melhorias que você vem trazendo. Dê muita atenção aos colegas de time que estão começando, dedique um tempo para ensiná-los da forma correta, tenho certeza que muitos lembrarão de você quando estiverem em outras empresas.
 
 Também é possível passar conhecimento para pessoas de fora da sua empresa, como em artigos (como este), vídeos no Youtube ou participação em fóruns e conferências. Lembre-se, quem não é visto não é lembrado ;). 
 
