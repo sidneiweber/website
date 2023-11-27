@@ -62,7 +62,7 @@ Também é possível passar conhecimento para pessoas de fora da sua empresa, co
 
 ![Não fique perdido](chaos.jpg "Chaos")
 
-O que aconteceria se o principal banco de dados da sua empresa ficasse fora? Não sabe, então esse é um ponto motivo para criar teste de caos. Em um ambiente muito parecido com produção, simule problemas e analise o comportamento. O sistema fica indisponível? Existem alternativas para que isso não ocorra? Existe formas de minimizar os impactos? São várias perguntas que podem ser resolvidas durante os testes.
+O que aconteceria se o principal banco de dados da sua empresa ficasse fora? Não sabe, então esse é um bom motivo para criar teste de caos. Em um ambiente muito parecido com produção, simule problemas e analise o comportamento. O sistema fica indisponível? Existem alternativas para que isso não ocorra? Existe formas de minimizar os impactos? São várias perguntas que podem ser resolvidas durante os testes.
 
 # Contribuir para projetos de código aberto
 
