@@ -4,7 +4,7 @@ title: 3 maneiras de iniciar um cluster Kubernetes localmente
 description: '
 O Kubernetes se tornou uma das plataformas de orquestração de containers mais utilizada. Existem diversos fatores positivos e negativos no uso do Kubernetes no processo de desenvolvimento, implantação e gerenciamento de aplicações. Kubernetes oferece uma orquestração avançada, permitindo que as aplicações cresçam conforme a demanda. Ele permite também abstrair a infraestrutura, ou seja, se a aplicação roda em um cluster Kubernetes, muito provavelmente roda em qualquer outro cluster de mesma versão. E vem se tornado um padrão dentro das grandes organizações, diminuindo um pouco a complexidade quando um funcionário passa de uma empresa para outra.
 '
-date: '2024-01-10 10:20:00'
+date: '2024-01-18 12:20:00'
 tags: [k8s, kubernetes]
 permalink: /3-maneiras-iniciar-cluster-kubernetes-localmente/
 images: []
