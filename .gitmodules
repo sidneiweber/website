@@ -4,3 +4,17 @@
 [submodule "themes/FixIt"]
 	path = themes/FixIt
 	url = https://github.com/hugo-fixit/FixIt.git
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/blist"]
+	path = themes/blist
+	url = https://github.com/apvarun/blist-hugo-theme.git
+[submodule "themes/FeelIt"]
+	path = themes/FeelIt
+	url = https://github.com/khusika/FeelIt
