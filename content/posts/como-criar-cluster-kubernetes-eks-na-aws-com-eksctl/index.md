@@ -8,7 +8,7 @@ permalink: /como-criar-cluster-kubernetes-eks-na-aws-com-eksctl/
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  src: "featured-image.gif"
 author: Sidnei Weber
 ---
 <!--more-->
