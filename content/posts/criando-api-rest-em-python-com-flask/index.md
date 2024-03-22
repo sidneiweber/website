@@ -210,4 +210,5 @@ Vamos testar novamente, por padrão será sorteado somente um número de 1 a 10,
 Se o retorno foi um JSON com os números sorteados está feito, temos nossa primeira API REST escrita, simples ainda, mas que logo usaremos para ir avançando para exemplificar alguns conceitos que podem nos ajudar no dia a dia do mundo Devops, Cloud e Observabilidade.
 
 https://www.hostinger.com.br/tutoriais/api-restful
+
 https://flask.palletsprojects.com/en/2.2.x/tutorial/
