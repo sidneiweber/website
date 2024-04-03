@@ -56,3 +56,5 @@ Outra alternativa ao Redis que promete ter uma melhor performance e compatibilid
 >O Dragonfly foi projetado para oferecer a escalabilidade exigida pelas cargas de trabalho de dados modernas. Diga adeus aos ambientes complexos de vários nós com infinitas opções de configuração e infinitos pontos de falha. O Dragonfly pode ser facilmente ampliado para lidar com mais de 1 TB de dados e 4 milhões de QPS em um único nó, com um simples nó primário.
 
 [https://www.dragonflydb.io](https://www.dragonflydb.io/)
+
+Como podemos perceber existem diversos projetos opensource que seguem a mesma linha do Redis, entregando as mesmas features ou até mesmo mais features. A maioria possui compatibilidade direta com o Redis o que pode facilitar durante uma migração. Ainda assim é sempre importante testar o máximo possível para validar se uma nova ferramenta vai continuar atendendo ao seu propósito
