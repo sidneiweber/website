@@ -36,10 +36,11 @@ Importar banco de dados que está dentro da pasta conexao
 Ou para quem quiser contribuir tem [Github](https://github.com/sidneiweber/catalogo-auto-pecas) também.
 
 ## Imagens
-![](/img/catalogo/1.png)
-![](/img/catalogo/2.png)
-![](/img/catalogo/3.png)
-![](/img/catalogo/4.png)
-![](/img/catalogo/5.png)
-![](/img/catalogo/6.png)
-![](/img/catalogo/7.png)
+
+{{< figure src="/img/catalogo/1.png" title="Página inicial" >}}
+{{< figure src="/img/catalogo/2.png" title="Cadastro de produto" >}}
+{{< figure src="/img/catalogo/3.png" title="Contas a pagar" >}}
+{{< figure src="/img/catalogo/4.png" title="Lista de orçamentos" >}}
+{{< figure src="/img/catalogo/5.png" title="Pesquisa de produto" >}}
+{{< figure src="/img/catalogo/6.png" title="Modal com imagem do produto" >}}
+{{< figure src="/img/catalogo/7.png" title="Ordem de serviço gerada" >}}

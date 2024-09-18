@@ -18,11 +18,12 @@ O projeto foi escrito usando a liguagem node, provavelmente não dá melhor form
 Em breve disponibilizarei no github para quem tiver interesse.
 
 ## Imagens Desktop e Mobile
-![](/img/estoque-casa/1.png)
-![](/img/estoque-casa/2.png)
-![](/img/estoque-casa/3.png)
-![](/img/estoque-casa/4.png)
-![](/img/estoque-casa/5.png)
-![](/img/estoque-casa/6.png)
-![](/img/estoque-casa/7.png)
-![](/img/estoque-casa/8.png)
+
+{{< figure src="/img/estoque-casa/1.png" title="Lista de produtos" >}}
+{{< figure src="/img/estoque-casa/2.png" title="Zerando estoque" >}}
+{{< figure src="/img/estoque-casa/3.png" title="Lista de produtos em falta" >}}
+{{< figure src="/img/estoque-casa/4.png" title="Adicionando produto ao estoque" >}}
+{{< figure src="/img/estoque-casa/5.png" title="Lista de produtos no celular" >}}
+{{< figure src="/img/estoque-casa/6.png" title="Zerando estoque no celular" >}}
+{{< figure src="/img/estoque-casa/7.png" title="Lista de produtos em falta no celular" >}}
+{{< figure src="/img/estoque-casa/8.png" title="Adicionando produto ao estoque no celular" >}}
