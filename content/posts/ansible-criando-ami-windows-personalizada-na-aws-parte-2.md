@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ansible: Criado AMI Windows personalizada na AWS (Parte 2)'
+title: 'Ansible: Criando AMI Windows personalizada na AWS (Parte 2)'
 subtitle: Criando Windows personalizado e gerando AMI com Ansible
 description: Na [parte 1](https://sidneiweber.com.br/ansible-criado-ami-windows-personalizada-na-aws-parte-1/) aprendemos como usar um script AWS User Data para configurar uma senha de Administrador e configurar o WinRM no Windows. Agora que sabemos como criar uma instância setando um senha especifica, vamos ao restante dos procedimentos.  Vamos estruturar nosso projeto e manter as coisas organizadas.
 date: '2019-12-27 17:04:43'
@@ -9,7 +9,7 @@ tags: [aws, ansible, windows]
 author: Sidnei Weber
 ---
 
-Na [parte 1](https://sidneiweber.com.br/ansible-criado-ami-windows-personalizada-na-aws-parte-1/) aprendemos como usar um script AWS User Data para configurar uma senha de Administrador e configurar o WinRM no Windows. Agora que sabemos como criar uma instância setando um senha especifica, vamos ao restante dos procedimentos.  Vamos estruturar nosso projeto e manter as coisas organizadas.
+Na [parte 1](https://sidneiweber.com.br/ansible-criando-ami-windows-personalizada-na-aws-parte-1/) aprendemos como usar um script AWS User Data para configurar uma senha de Administrador e configurar o WinRM no Windows. Agora que sabemos como criar uma instância setando um senha especifica, vamos ao restante dos procedimentos.  Vamos estruturar nosso projeto e manter as coisas organizadas.
 
 Recursos utilizados, caso não tenha algo instalado, não funcionará :
 
