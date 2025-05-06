@@ -764,7 +764,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         #Telegram = "xxxx"
         #Youtubelegacy = "xxxx"
         #Phone = "555-555-555"
-        Email = "sidnei@gmail.com"
+        Email = "sidnei.weber@gmail.com"
         RSS = true
         #[languages.en.params.social.Mastodon]
         #  id = "@xxxx"
