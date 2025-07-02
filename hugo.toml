@@ -764,7 +764,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         #Telegram = "xxxx"
         #Youtubelegacy = "xxxx"
         #Phone = "555-555-555"
-        Email = "sidnei@gmail.com"
+        Email = "sidnei.weber@gmail.com"
         RSS = true
         #[languages.en.params.social.Mastodon]
         #  id = "@xxxx"
@@ -814,42 +814,42 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         parent = "tools"
         [languages.pt-br.menu.main.params]
           icon = "fa-solid fa-lock"
-      [[languages.pt-br.menu.main]]
-        weight = 3
-        identifier = "projects"
-        name = "Projetos"
-        post = ""
-        url = "#"
-        [languages.pt-br.menu.main.params]
-          icon = "fa-solid fa-diagram-project"
-      [[languages.pt-br.menu.main]]
-        weight = 1
-        identifier = "catalogo-auto-pecas"
-        name = "Catálogo de Auto Peças"
-        post = ""
-        url = "/projetos/catalogo-auto-pecas"
-        parent = "projects"
-      [[languages.pt-br.menu.main]]
-        weight = 2
-        identifier = "estoque-da-casa"
-        name = "Estoque da casa"
-        post = ""
-        url = "/projetos/estoque-da-casa"
-        parent = "projects"
-      [[languages.pt-br.menu.main]]
-        weight = 3
-        identifier = "projeto-pri"
-        name = "Projeto PRI"
-        post = ""
-        url = "/projetos/projeto-pri"
-        parent = "projects"
-      [[languages.pt-br.menu.main]]
-        weight = 4
-        identifier = "scp-facil"
-        name = "SCP Fácil"
-        post = ""
-        url = "/projetos/scp-facil"
-        parent = "projects"
+#      [[languages.pt-br.menu.main]]
+#        weight = 3
+#        identifier = "projects"
+#        name = "Projetos"
+#        post = ""
+#        url = "#"
+#        [languages.pt-br.menu.main.params]
+#          icon = "fa-solid fa-diagram-project"
+#      [[languages.pt-br.menu.main]]
+#        weight = 1
+#        identifier = "catalogo-auto-pecas"
+#        name = "Catálogo de Auto Peças"
+#        post = ""
+#        url = "/projetos/catalogo-auto-pecas"
+#        parent = "projects"
+#      [[languages.pt-br.menu.main]]
+#        weight = 2
+#        identifier = "estoque-da-casa"
+#        name = "Estoque da casa"
+#        post = ""
+#        url = "/projetos/estoque-da-casa"
+#        parent = "projects"
+#      [[languages.pt-br.menu.main]]
+#        weight = 3
+#        identifier = "projeto-pri"
+#        name = "Projeto PRI"
+#        post = ""
+#        url = "/projetos/projeto-pri"
+#        parent = "projects"
+#      [[languages.pt-br.menu.main]]
+#        weight = 4
+#        identifier = "scp-facil"
+#        name = "SCP Fácil"
+#        post = ""
+#        url = "/projetos/scp-facil"
+#        parent = "projects"
       [[languages.pt-br.menu.main]]
         weight = 4
         identifier = "guia-rapido"
@@ -912,7 +912,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         #Telegram = "xxxx"
         #Youtubelegacy = "xxxx"
         #Phone = "555-555-555"
-        Email = "sidnei@gmail.com"
+        Email = "sidnei.weber@gmail.com"
         RSS = true
         #[languages.en.params.social.Mastodon]
         #  id = "@xxxx"
