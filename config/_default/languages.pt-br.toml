@@ -1,0 +1,14 @@
+languageCode = "pt-br"
+languageName = "Português"
+weight = 1
+title = "Sidnei Weber"
+
+[params]
+  displayName = "Português"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo_inverted@0.25x.png"
+  secondaryLogo = "img/logo@0.25x.png"
+  description = "Sidnei Weber"
+  # copyright = "Copy, _right?_ :thinking_face:"
