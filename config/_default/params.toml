@@ -121,11 +121,11 @@ smartTOCHideUnfocusedChildren = false
   #measurementId = "G-H8CSEYZFG4"
 
 [buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#  identifier = "sidneiweber"
+#  globalWidget = true
+#  globalWidgetMessage = ""
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
 [fathomAnalytics]
   # site = "ABC12345"
