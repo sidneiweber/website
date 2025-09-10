@@ -73,9 +73,9 @@ cat config/server.properties
 
 ## Iniciar o servidor Kafka
 
-{{< admonition type=warning title="Aviso do autor" open=true >}}
+"Aviso do autor" 
 Gostaria de deixar claro que as instruções a seguir não se aplicam a um ambiente de produção, eu considero esse cenário ideal para ambientes de testes ou cenários específicos como testar alguma configuração ou algo do gênero.
-{{< /admonition >}}
+
 
 Aqui teremos duas opções para iniciar o servidor Kafka, o modo tradicional, iniciando o servidor Kafka com o Zookeeper e o modo "Kraft" que é uma maneira recente de iniciar o Kafka sem utilizar o Zookeeper, saiba mais sobre [aqui](https://developer.confluent.io/learn/kraft/). Escolha uma das opções para iniciar o servidor e então poderemos avançar para os testes.
 

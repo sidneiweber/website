@@ -12,9 +12,8 @@ resources:
 ---
 <!--more-->
 
-{{< admonition type=warning title="Aviso do autor" open=true >}}
+"Aviso do autor"
 Essa história pode ter sido baseada em fatos reais (ou não) e pode contar ironia (ou não).
-{{< /admonition >}}
 
 
 ## Guerra Infinita da Tecnologia: Capítulo 1
