@@ -25,6 +25,9 @@ jobs:
         id: build
         run: hugo --minify
 
+      - name: Add CNAME to public
+        run: echo "sidneiweber.com.br" > public/CNAME
+
       - name: Deploy
         if: ${{ steps.build.outcome == 'success' && github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3
