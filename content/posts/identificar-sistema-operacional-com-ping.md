@@ -4,6 +4,7 @@ title: Identificar sistema operacional com ping
 date: 2019-01-17T15:21:50-03:00
 author: Sidnei Weber
 layout: post
+url: identificar-sistema-operacional-com-ping
 #cover: /img/ping-command.png
 tags: [rede]
 

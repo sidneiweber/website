@@ -3,6 +3,7 @@ title: 'Evitando encerramento acidental de sessões bash'
 date: 2015-07-06T15:50:35-03:00
 author: Sidnei Weber
 layout: post
+url: evitando-encerramento-acidental-de-sessoes-bash
 tags:
   - linuxss
   - servidores
@@ -20,4 +21,3 @@ Desta forma, para encerrar uma sessão bash, precisamos digitar a sequência `CT
 
 Esta variável de ambiente deve ser definida no arquivo `.bashrc`.
 
-Fonte: [Dicas-L](http://www.dicas-l.com.br/arquivo/encerramento_acidental_de_sessoes_bash.php#.VDVCZdRdW2w)

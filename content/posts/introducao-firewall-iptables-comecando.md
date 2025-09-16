@@ -1,5 +1,6 @@
 ---
 layout: post
+url: introducao-firewall-iptables-comecando
 title: Introdução Firewall Iptables - Começando
 #description: Introdução Firewall Iptables - Começando
 date: '2017-02-15 10:44:41 -0300'

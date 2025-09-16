@@ -3,6 +3,7 @@ title: 'Utilizando o comando like com variável [PHP-MySQL]'
 date: 2015-07-10T16:48:54-03:00
 author: Sidnei Weber
 layout: post
+url: utilizando-o-comando-like-com-variavel-php-mysql
 tags:
   - mysql
   - php
@@ -18,4 +19,3 @@ $result = mysql_query("SELECT descricao FROM produtos WHERE descricao like '%".$
 // comando like normal
 //retorna todos os nomes que tenham a palavra "pedro" em qualquer posição
 $result = mysql_query(" SELECT nome FROM funcionarios WHERE nome like '%pedro%' ");</pre>
-```

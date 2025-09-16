@@ -6,7 +6,7 @@ Kafka é um dos serviços mais utilizados quando estamos falando de streaming de
 '
 date: '2024-01-10 10:20:00'
 tags: [kafka, zookeeper]
-permalink: /instalacao-servidor-kafka-ubuntu-server/
+url: /instalacao-servidor-kafka-ubuntu-server/
 images: []
 resources:
 - name: "featured-image"

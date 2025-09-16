@@ -4,6 +4,7 @@ title: Reconhecer HD novo Linux sem reiniciar
 date: 2018-01-30T20:53:54-03:00
 author: Sidnei Weber
 layout: post
+url: reconhecer-hd-novo-linux-sem-reiniciar
 #cover: /img/uploads/2018/01/vmware_client_failed.jpg
 tags:
   - linux

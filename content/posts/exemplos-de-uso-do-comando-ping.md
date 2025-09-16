@@ -6,6 +6,7 @@ description: Alguns usos pouco conhecidos do comando ping.
 date: 2019-04-26T09:56:31-03:00
 author: Sidnei Weber
 layout: post
+url: exemplos-de-uso-do-comando-ping
 #cover: /img/ping-command.png
 tags: [linux, rede]
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+url: exemplo-de-comandos-do-aws-s3-para-gerenciar-buckets
 title: Exemplo de comandos da AWS S3 para gerenciar buckets
 subtitle: Comandos para gerenciar Bucket e Objetos no S3 da AWS
 description: Este tutorial explica os conceitos básicos de como gerenciar buckets do S3 e seus objetos usando o aws s3 cli usando os seguintes exemplos

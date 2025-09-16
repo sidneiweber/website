@@ -3,6 +3,7 @@ title: Remover extensão .php com .htaccess (Rápido e fácil)
 date: 2016-10-17T14:34:10-03:00
 author: Sidnei Weber
 layout: post
+url: remover-extensao-php-com-htaccess-rapido-e-facil
 #cover: /uploads/2016/10/Seleção_012-220x162.png
 tags:
   - php
@@ -29,4 +30,3 @@ E quando formos criarmos nosso link no php, aqui no caso estamos com o exemplo s
 
 Sem a extensão .php. O servidor irá fazer todo o resto do trabalho.
 
-[Fonte](http://www.codingcage.com/2015/11/how-to-remove-php-html-extensions-with.html)

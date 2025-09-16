@@ -4,7 +4,7 @@ title: Apaga tudo.bat
 date: 2009-09-28T18:54:02-03:00
 author: Sidnei Weber
 layout: post
-permalink: /apaga-tudobat/
+url: /apaga-tudobat/
 tags:
   - windows
 ---

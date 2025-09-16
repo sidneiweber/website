@@ -1,4 +1,5 @@
 ---
+url: proxy-transparente
 title: Proxy transparente
 date: 2014-02-16T19:31:32-03:00
 author: Sidnei Weber

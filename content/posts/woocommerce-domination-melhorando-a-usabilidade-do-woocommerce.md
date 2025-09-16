@@ -1,5 +1,6 @@
 ---
 layout: post
+url: woocommerce-domination-melhorando-a-usabilidade-do-woocommerce
 title: WooCommerce Domination - Melhorando a usabilidade do WooCommerce
 date: '2015-07-06 15:40:54 -0300'
 author: Sidnei Weber

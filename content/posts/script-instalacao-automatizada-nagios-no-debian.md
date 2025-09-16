@@ -4,6 +4,7 @@ description: Script instalação automatizada Nagios no Debian
 date: 2017-04-26T13:27:40-03:00
 author: Sidnei Weber
 layout: post
+url: script-instalacao-automatizada-nagios-no-debian
 tags: [nagios]
 ---
 Script para instalação do Nagios e Nagios plugins no Debian baixando o código fonte. Script está funcional, porém pode vir a melhorar.
@@ -95,4 +96,3 @@ service apache2 reload
 
 # Iniciar instancia
 /usr/local/nagios/bin/nagios -d /usr/local/nagios/etc/nagios.cfg
-```

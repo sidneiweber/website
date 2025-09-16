@@ -1,5 +1,6 @@
 ---
 layout: post
+url: reduzindo-custos-na-aws-ec2-parte-1
 title: Reduzindo custos na AWS (EC2) - Parte 1
 subtitle: Usando o desligamento programado podemos reduzir custos.
 description: A redução de custos no ambiente de nuvem é um assunto constante, a utlização é simples porém o desperdício de recursos pode ocorrer com bastante facilidade. Para te ajudar vou dividir as dicas em três partes, dividindo em EC2, ECS e RDS, três serviços distintos da [AWS](https://aws.amazon.com/pt/).

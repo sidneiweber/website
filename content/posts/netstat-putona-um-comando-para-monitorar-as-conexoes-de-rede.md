@@ -1,5 +1,6 @@
 ---
 layout: post
+url: netstat-putona-um-comando-para-monitorar-as-conexoes-de-rede
 title: netstat -putona - Um comando para monitorar as conexões de rede
 description: netstat -putona - Um comando para monitorar as conexões de rede
 date: '2015-07-06 15:37:42 -0300'

@@ -4,6 +4,7 @@ description: Maiúsculas e Minúsculas em PHP
 date: 2015-07-06T15:47:02-03:00
 author: Sidnei Weber
 layout: post
+url: maiusculas-e-minusculas-em-php
 tags:
   - php
 ---

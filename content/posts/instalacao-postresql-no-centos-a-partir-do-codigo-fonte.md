@@ -4,6 +4,7 @@ title: Instalação Postresql no Centos a partir do código fonte
 date: 2018-05-03T21:28:13-03:00
 author: Sidnei Weber
 layout: post
+url: instalacao-postresql-no-centos-a-partir-do-codigo-fonte
 #cover: /img/uploads/2018/05/download.png
 tags:
   - postgresql

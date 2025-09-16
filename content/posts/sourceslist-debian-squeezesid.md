@@ -4,6 +4,7 @@ description: sources.list | Debian Squeeze/Sid
 date: 2009-07-20T13:02:45-03:00
 author: Sidnei Weber
 layout: post
+url: sourceslist-debian-squeezesid
 tags:
   - debian
 ---
@@ -11,7 +12,7 @@ Descomente os que você quiser
 
 ```bash
 # deb cdrom:[Debian GNU/Linux testing \_squeeze\_ &#8211; Official Snapshot i386 CD Binary-1 20081201-10:57]/ squeeze main  
-#deb cdrom:[Debian GNU/Linux testing \_squeeze\_ &#8211; Official Snapshot i386 CD Binary-1 20081201-10:57]/ squeeze main  
+#deb cdrom:[Deban GNU/Linux testing \_squeeze\_ &#8211; Official Snapshot i386 CD Binary-1 20081201-10:57]/ squeeze main  
 #deb-src http://ftp.br.debian.org/debian/ squeeze main  
 #deb-src http://security.debian.org/ squeeze/updates main  
 #deb http://ftp.br.debian.org/debian/ squeeze main

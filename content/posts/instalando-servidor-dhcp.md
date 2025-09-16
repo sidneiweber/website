@@ -3,6 +3,7 @@ title: Instalando servidor DHCP
 date: 2017-03-06T14:55:51-03:00
 author: Sidnei Weber
 layout: post
+url: instalando-servidor-dhcp
 guid: http://sidneiweber.com.br/?p=392
 cover: /img/uploads/2017/03/dhcp.png
 tags:

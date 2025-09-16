@@ -3,6 +3,7 @@ title: Iniciando servidor apache no docker
 date: 2016-11-17T10:59:38-03:00
 author: Sidnei Weber
 layout: post
+url: iniciando-servidor-apache-no-docker
 #cover: /uploads/2016/11/índice-220x159.png
 tags:
   - docker
@@ -39,4 +40,3 @@ Se caso a porta 80 de seu host esteja sendo usada, é possível mapear outra por
 docker run -it -p 8080:80 -v /home/sidnei/meusite/:/var/www/html/ -d eboraas/apache
 ```
 
-[Fonte](https://hub.docker.com/r/eboraas/apache/)

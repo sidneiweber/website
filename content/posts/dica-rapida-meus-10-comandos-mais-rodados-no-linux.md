@@ -4,6 +4,7 @@ description: Com este comando podemos conferir quais os 10 comandos mais rodados
 date: 2016-11-28T15:39:52-03:00
 author: Sidnei Weber
 layout: post
+url: dica-rapida-meus-10-comandos-mais-rodados-no-linux
 #cover: /uploads/2015/07/cropped-captura_de_tela-220x162.jpg
 tags:
   - linux
@@ -29,4 +30,3 @@ history|awk '{print $2}'|awk 'BEGIN {FS="|"} {print $1}'|sort|uniq -c|sort -rn|h
      31 ps
      26 du
 sidnei@black:~$
-```

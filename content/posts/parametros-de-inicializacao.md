@@ -3,6 +3,7 @@ title: Parâmetros de Inicialização
 date: 2009-09-24T20:10:48-03:00
 author: Sidnei Weber
 layout: post
+url: parametros-de-inicializacao
 tags:
   - linux
 ---

@@ -3,6 +3,7 @@ title: Reforçando segurança servidor ssh
 date: 2016-11-23T10:07:22-03:00
 author: Sidnei Weber
 layout: post
+url: reforcando-seguranca-servidor-ssh
 #cover: /uploads/2016/09/Artigo_07_002-220x162.jpg
 tags: [linux, segurança, ssh]
 ---

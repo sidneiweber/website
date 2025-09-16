@@ -4,6 +4,7 @@ title: Gerenciando serviços com SystemD
 date: 2018-07-02T21:31:31-03:00
 author: Sidnei Weber
 layout: post
+url: gerenciando-servicos-com-systemd
 cover: /img/uploads/2018/07/Captura-de-tela-de-2018-07-13-20-55-02.png
 categories:
   - Linux

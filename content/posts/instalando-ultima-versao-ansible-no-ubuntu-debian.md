@@ -1,5 +1,6 @@
 ---
 layout: post
+url: instalando-ultima-versao-ansible-no-ubuntu-debian
 title: Instalando última versão do Ansible no Ubuntu/Debian
 description: '
 Instalando última versão do Ansible no Ubuntu/Debian.

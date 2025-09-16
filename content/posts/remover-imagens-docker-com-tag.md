@@ -4,6 +4,7 @@ date: 2020-07-06T15:50:35-03:00
 description: Imagens que não são usadas e acabam nos atrapalhando.
 author: Sidnei Weber
 layout: post
+url: remover-imagens-docker-com-tag
 #cover: /img/docker.png
 tags:
 - docker

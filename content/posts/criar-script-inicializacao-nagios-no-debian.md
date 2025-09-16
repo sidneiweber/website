@@ -3,6 +3,7 @@ title: Criar script inicialização Nagios no Debian
 date: 2017-02-08T14:17:09-03:00
 author: Sidnei Weber
 layout: post
+url: criar-script-inicializacao-nagios-no-debian
 #cover: /uploads/2017/01/nagios_logo_black.png
 tags: [nagios]
 ---
@@ -52,4 +53,3 @@ Agora temos todas as opções disponíveis:
 Usage: /etc/init.d/nagios {start|stop|status|restart|try-restart|force-reload}
 ```
 
-Forte abraço e até a próxima.

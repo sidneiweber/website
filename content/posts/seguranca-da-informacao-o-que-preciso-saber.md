@@ -1,5 +1,6 @@
 ---
 layout: post
+url: seguranca-da-informacao-o-que-preciso-saber
 title: Segurança da Informação - O que preciso saber?
 date: '2017-09-05 13:55:37 -0300'
 author: Sidnei Weber

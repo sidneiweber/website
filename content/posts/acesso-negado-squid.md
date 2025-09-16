@@ -4,6 +4,7 @@ title: Acesso negado - Squid
 description: Acesso negado - Squid
 date: '2009-09-28 19:11:41 -0300'
 author: Sidnei Weber
+url: acesso-negado-squid
 tags:
 - squid
 ---

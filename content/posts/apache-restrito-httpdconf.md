@@ -5,6 +5,7 @@ description: Apache restrito httpd.conf
 date: 2009-09-28T18:51:29-03:00
 author: Sidnei Weber
 layout: post
+url: apache-restrito-httpdconf
 tags:
   - ldap
   - apache

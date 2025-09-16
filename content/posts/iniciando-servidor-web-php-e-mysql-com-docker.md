@@ -3,6 +3,7 @@ title: Iniciando servidor web PHP e Mysql com Docker
 date: 2017-05-31T13:41:27-03:00
 author: Sidnei Weber
 layout: post
+url: iniciando-servidor-web-php-e-mysql-com-docker
 cover: /img/uploads/2017/05/Captura-de-tela_2017-05-31_13-34-26.png
 tag: [docker, mysql, php, apache]
 ---
@@ -58,4 +59,3 @@ Basta acessar seu localhost, ou ip de sua máquina que o servidor estará UP. A 
 
 ![docker](/img/uploads/2017/05/Captura-de-tela_2017-05-31_13-34-26-1024x233.png) 
 
-[Fonte](http://blog.locaweb.com.br/artigos/desenvolvimento-artigos/docker-php-em-5-minutos/)

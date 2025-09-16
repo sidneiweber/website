@@ -4,6 +4,7 @@ description: Como deixar a hora mais legível no dmesg
 date: 2017-10-20T22:34:17-03:00
 author: Sidnei Weber
 layout: post
+url: hora-mais-legivel-no-dmesg
 tags: [linux, dmesg]
 ---
 Saída padrão do **dmesg:**

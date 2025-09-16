@@ -1,5 +1,6 @@
 ---
 layout: post
+url: rarcrack-quebrando-senhas-de-arquivos-rar-7z-e-zip
 title: Rarcrack - Quebrando senhas de arquivos rar, 7z e zip
 date: '2013-04-23 11:58:04 -0300'
 author: Sidnei Weber

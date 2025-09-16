@@ -6,7 +6,7 @@ O Traefik é uma ferramenta muito poderosa e uma ótima alternativa para utiliza
 '
 date: '2024-03-22 10:20:00'
 tags: [k8s, kubernetes, eks, traefik, ingress]
-permalink: /como-utilizar-traefik-ingress-controller-no-kubernetes/
+url: /como-utilizar-traefik-ingress-controller-no-kubernetes/
 images: []
 resources:
 - name: "featured-image"

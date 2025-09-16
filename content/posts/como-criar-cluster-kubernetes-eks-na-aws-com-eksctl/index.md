@@ -4,7 +4,7 @@ title: Como criar um cluster kubernetes EKS na AWS com eksctl
 description: 'Continuando nossa série sobre Kubernetes, hoje iremos criar um cluster na AWS (EKS) utilizando uma ferramenta chamada eksctl.'
 date: '2024-02-07 12:20:00'
 tags: [k8s, kubernetes, eks, eksctl, aws]
-permalink: /como-criar-cluster-kubernetes-eks-na-aws-com-eksctl/
+url: /como-criar-cluster-kubernetes-eks-na-aws-com-eksctl/
 images: []
 resources:
 - name: "featured-image"

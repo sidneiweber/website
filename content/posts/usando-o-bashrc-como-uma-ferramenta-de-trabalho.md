@@ -4,6 +4,7 @@ description: Usando o bashrc como uma ferramenta de trabalho
 date: 2016-12-16T15:45:29-03:00
 author: Sidnei Weber
 layout: post
+url: usando-o-bashrc-como-uma-ferramenta-de-trabalho
 tags:
   - linux
   - shell script
@@ -74,4 +75,3 @@ history | awk '{a[$2]++ } END{for(i in a){print a[i] " " i}}' | sort -rn | head
 
 # alisa previsao tempo
 alias tempo='curl http://wttr.in/sapiranga'
-```

@@ -4,6 +4,7 @@ description: Migração banco de dados Mysql
 date: 2015-07-06T15:42:35-03:00
 author: Sidnei Weber
 layout: post
+url: migracao-banco-de-dados-mysql
 tags:
   - mysql
 ---

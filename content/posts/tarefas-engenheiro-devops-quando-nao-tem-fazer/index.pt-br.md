@@ -5,7 +5,7 @@ description: 'Por mais que você possa sempre estar atarefado, existem momentos 
 date: '2023-11-27 09:00:00'
 tags: [devops]
 author: Sidnei Weber
-#url: /tarefas-para-engenheiro-devop/
+url: /tarefas-engenheiro-devops-fazer-quando-nao-tem-o-que-fazer/
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

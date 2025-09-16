@@ -1,5 +1,6 @@
 ---
 layout: post
+url: simular-trafego-usuario-servidor
 title: Simular tráfego de usuário para um servidor
 description: '
 Quando queremos testar algumas coisas servidor, como teste de carga ou teste de desempenho podemos utilizar essa ferramenta que simula conexões dos usuários.

@@ -7,7 +7,7 @@ Ele √© executado como um cluster de um ou mais servidores, ou seja, mesmo que s√
 '
 date: '2020-09-01 22:20:00'
 tags: [kafka, zookeeper]
-permalink: /kafka-tudo-que-precisamos-saber/
+url: /kafka-tudo-que-precisamos-saber/
 images: []
 resources:
 - name: "featured-image"

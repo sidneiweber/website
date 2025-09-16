@@ -3,6 +3,7 @@ title: Configurar PHP para exibir erros
 date: 2015-07-06T15:40:25-03:00
 author: Sidnei Weber
 layout: post
+url: configurar-php-para-exibir-erros
 tags:
   - apache
   - php
@@ -13,4 +14,3 @@ Essa configuração útil quando estamos desenvolvendo e precisamos ver alguns e
 _display_errors = Off_
 ```
 
-Para On

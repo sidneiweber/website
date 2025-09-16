@@ -1,5 +1,6 @@
 ---
 layout: post
+url: podcast-mercado-dinheiro-e-opensource
 title: Podcast - Mercado, Dinheiro e Opensource
 description: Podcast - Mercado, Dinheiro e Opensource [Vídeo]
 date: '2018-04-02 21:33:42 -0300'

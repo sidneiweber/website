@@ -5,8 +5,9 @@ description: '
 SWAP é um espaço no disco que é utilizado quando a quantidade de memória RAM física está cheia. Quando um sistema Linux fica sem RAM, os blocos de memória inativos são movidos da RAM para a área de SWAP.
 '
 date: '2021-01-29 22:00:00'
-tags: [linux]
 author: Sidnei Weber
+url: criando-araquivo-swap-linux
+tags: [linux]
 ---
 
 ## O que é o SWAP

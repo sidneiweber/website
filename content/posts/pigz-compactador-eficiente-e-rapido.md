@@ -1,5 +1,6 @@
 ---
 layout: post
+url: pigz-compactador-eficiente-e-rapido
 title: Pigz - Compactador eficiente e rápido
 subtitle: Esse compactador consegue usar múltiplos núcleos.
 description: Esse compactador consegue usar múltiplos núcleos.

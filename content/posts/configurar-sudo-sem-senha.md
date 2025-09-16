@@ -3,6 +3,7 @@ title: Configurar sudo sem senha
 date: 2017-12-01T21:29:13-03:00
 author: Sidnei Weber
 layout: post
+url: configurar-sudo-sem-senha
 #cover: /uploads/2016/12/Selecao_003.png
 tags: [linux, sudo]
 ---

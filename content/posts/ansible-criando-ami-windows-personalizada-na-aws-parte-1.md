@@ -1,5 +1,6 @@
 ---
 layout: post
+url: ansible-criando-ami-windows-personalizada-na-aws-parte-1
 title: 'Ansible: Criando AMI Windows personalizada na AWS (Parte 1)'
 subtitle: Configurando Windows para acesso com Ansible
 description: Quando vamos trabalhar com Ansbile usando Windows na AWS notamos que as imagens padrões do Windows não estão com o WinRM configurado e as senhas são geradas aleatoriamente usando a chave selecionada, sendo somente acessíveis alguns minutos após a instância iniciar. [Conectando em uma instância Windows](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/connecting_to_windows_instance.html).

@@ -6,6 +6,7 @@ author: Sidnei Weber
 layout: post
 tags:
   - openfire
+url: atualizar-openfire
 ---
 Uma dúvida muito constante dos usuários Openfire é como fazer para atualizarem seu servidor para uma versão mais recente.
 

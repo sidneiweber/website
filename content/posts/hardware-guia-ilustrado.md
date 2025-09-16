@@ -4,6 +4,7 @@ title: Hardware - Guia ilustrado
 description: Hardware - Guia ilustrado
 date: '2009-09-29 01:29:00 -0300'
 author: Sidnei Weber
+url: hardware-guia-ilustrado
 tags:
 - hardware
 ---

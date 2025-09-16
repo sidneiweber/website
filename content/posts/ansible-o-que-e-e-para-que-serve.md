@@ -1,5 +1,6 @@
 ---
 layout: post
+url: ansible-o-que-e-e-para-que-serve
 title: Ansible - O que é e para que serve
 date: '2018-06-19 20:34:23 -0300'
 author: Sidnei Weber

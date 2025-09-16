@@ -4,6 +4,7 @@ description: Gestão corporativa com Software Livre
 date: 2016-10-05T12:41:19-03:00
 author: Sidnei Weber
 layout: post
+url: gestao-corporativa-com-software-livre
 #cover: /uploads/2016/10/Seleção_011-220x162.png
 tags: [linux]
 ---

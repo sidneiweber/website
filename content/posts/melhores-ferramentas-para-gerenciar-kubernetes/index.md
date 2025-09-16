@@ -5,7 +5,7 @@ description: "Se você trabalha com Kubernetes no dia a dia, sabe que escolher a
 summary: "Se você trabalha com Kubernetes no dia a dia, sabe que escolher as ferramentas certas pode te ajudar muito a otimizar o trabalho. Caso contrário gerenciar seu kubernetes pode virar uma dor de cabeça. Neste post, compartilho as ferramentas que uso diariamente para tornar a gestão de clusters Kubernetes mais produtiva, segura e eficiente."
 date: '2025-07-02 20:30:00'
 tags: [kubernetes, k8s, tools, ferramentas]
-permalink: /melhores-ferramentas-para-gerenciar-kubernetes/
+url: /melhores-ferramentas-para-gerenciar-kubernetes/
 images: []
 resources:
 - name: "featured-image"

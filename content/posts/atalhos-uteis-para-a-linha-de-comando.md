@@ -4,6 +4,7 @@ description: Atalhos úteis para a linha de comando
 date: 2015-07-06T15:38:45-03:00
 author: Sidnei Weber
 layout: post
+url: atalhos-uteis-para-a-linha-de-comando
 tags:
   - linux
   - shell script
@@ -26,4 +27,3 @@ tags:
 | Ctrl+L  | limpa a tela, deixando a linha corrente no topo |
 | Ctrl+_  | undo (incremental). |
 
-[Fonte](http://www.quora.com/Bash-shell/What-are-some-useful-Bash-tricks)

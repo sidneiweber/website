@@ -3,6 +3,7 @@ title: 'Instalar servidor Samba [Dica rápida]'
 date: 2014-02-11T23:59:10-03:00
 author: Sidnei Weber
 layout: post
+url: instalar-servidor-samba-dica-rapida
 tags:
   - samba
   - servidores
@@ -69,4 +70,3 @@ Reinicie o serviço:
 service smbd restart
 ```
 
-Pronto, servidor disponível. [Fonte](http://cristianojosef.blogspot.com.br/2013/02/configurando-um-servidor-samba-no.html)

@@ -4,6 +4,7 @@ description: Instalando um dashboard para seu servidor linux
 date: 2014-02-04T23:31:35-03:00
 author: Sidnei Weber
 layout: post
+url: instalando-um-dashboard-para-seu-servidor-linux
 tags:
   - linux
   - servidores
@@ -19,4 +20,3 @@ yum -y install php php-common php-gd php-mbstring php-xml php-xmlrpc
 
 Agora acesse: http://endereco.ip.do.server/linux-dash
 
-[Fonte](http://www.ricardomartins.com.br/dashboard-lindao-para-seu-servidor-linux/)

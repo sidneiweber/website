@@ -3,6 +3,7 @@ title: Desligar ou reiniciar o computador com hora marcada
 date: 2013-04-23T12:02:44-03:00
 author: Sidnei Weber
 layout: post
+url: desligar-ou-reiniciar-o-computador-com-hora-marcada
 tags:
   - linux
   - shell script
@@ -41,4 +42,3 @@ ou
 shutdown -r +m
 ```
 
-[Fonte](http://www.vivaolinux.com.br/dica/Desligar-ou-reiniciar-o-computador-com-hora-marcada)

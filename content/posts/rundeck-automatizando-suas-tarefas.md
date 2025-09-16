@@ -1,5 +1,6 @@
 ---
 layout: post
+url: rundeck-automatizando-suas-tarefas
 title: Rundeck - Automatizando suas tarefas
 date: '2018-04-09 21:08:17 -0300'
 author: Sidnei Weber

@@ -6,7 +6,7 @@ date: 2016-07-12T13:10:54-03:00
 author: Sidnei Weber
 layout: post
 guid: http://sidneiweber.com.br/?p=248
-permalink: /tutorial-basico-e-rapido-de-mysql/
+url: /tutorial-basico-e-rapido-de-mysql/
 img: /uploads/2016/07/mysql_hosting-220x162.png
 tags:
   - mysql

@@ -3,7 +3,7 @@ title: Gerar lista de pacotes instalados no Debian, Ubuntu, etc
 date: 2017-06-22T13:22:53-03:00
 author: Sidnei Weber
 layout: post
-permalink: gerar-lista-de-pacotes-instalados-no-debian-ubuntu-etc/
+url: gerar-lista-de-pacotes-instalados-no-debian-ubuntu-etc/
 tags:
   - dpkg
   - linux

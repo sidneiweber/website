@@ -3,6 +3,7 @@ title: Extensões de arquivos no Linux
 date: 2017-09-19T13:30:06-03:00
 author: Sidnei Weber
 layout: post
+url: extensoes-de-arquivos-no-linux
 tags: [linux]
 ---
 Primeiramente o que devemos saber é que no Linux a extensão é opcional, o tipo de arquivo é reconhecido pelo seu conteúdo e não pela sua extensão. Mas para facilitar a vida é bom conhecer algumas extensões no Linux.
@@ -22,7 +23,7 @@ Primeiramente o que devemos saber é que no Linux a extensão é opcional, o tip
 **h:** cabeçalho de arquivos programados em C  
 **lo**: arquivo temporário criado pela compilação de uma library  
 **o**: arquivo temporário criado pela compilação de um programa  
-**so**: bibliotecas compartilhadas equivalentes aos &#8220;dll&#8221; em windows
+**so**: bibliotecas compartilhadas equivalentes aos "dll" em windows
 
 #### <span id="Arquivos_compactados">Arquivos compactados</span>
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+url: knock-ssh-adicionando-uma-camada-extra-de-seguranca-no-servidor
 title: Knock SSH - Adicionando uma camada extra de segurança no servidor
 date: '2017-03-21 16:03:09 -0300'
 author: Sidnei Weber

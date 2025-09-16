@@ -1,5 +1,6 @@
 ---
 layout: post
+url: emmi-linux-uma-distribuicao-pequena-e-leve
 title: Emmi Linux - Uma distribuição pequena e leve
 date: '2017-03-24 13:34:39 -0300'
 author: Sidnei Weber

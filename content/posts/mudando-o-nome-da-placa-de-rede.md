@@ -3,6 +3,7 @@ title: Mudando o nome da placa de rede
 date: 2013-04-23T12:00:50-03:00
 author: Sidnei Weber
 layout: post
+url: mudando-o-nome-da-placa-de-rede
 tags:
   - hardware
   - linux
@@ -25,4 +26,3 @@ Salva, saia e reinicie !
 
 Suas placas voltarão novamente `eth0` e `eth1`.
 
-[Fonte](http://ediomaico.wordpress.com/2011/03/21/mudando-o-nome-da-placa-de-rede/)

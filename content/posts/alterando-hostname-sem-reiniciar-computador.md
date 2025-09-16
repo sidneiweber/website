@@ -4,6 +4,7 @@ title: Alterando hostname sem reiniciar computador
 date: 2017-02-03T14:15:55-03:00
 author: Sidnei Weber
 layout: post
+url: alterando-hostname-sem-reiniciar-computador
 #cover: /img/uploads/2016/05/cropped-captura_de_tela-300x167.jpg
 tags: [linux]
 ---

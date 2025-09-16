@@ -3,6 +3,7 @@ layout: post
 title: Backup Mysql - Linha comando
 date: '2015-07-06 15:48:02 -0300'
 author: Sidnei Weber
+url: backup-mysql-linha-comando
 tags:
 - linux
 - mysql

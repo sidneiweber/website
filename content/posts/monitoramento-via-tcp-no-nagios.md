@@ -4,6 +4,7 @@ description: Monitoramento via TCP no Nagios
 date: 2017-04-28T11:06:44-03:00
 author: Sidnei Weber
 layout: post
+url: monitoramento-via-tcp-no-nagios
 cover: /img/uploads/2017/04/Captura-de-tela_2017-04-28_11-05-19.png
 tags: [nagios]
 ---

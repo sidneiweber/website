@@ -4,7 +4,7 @@ title: Um pouco sobre SLA, SLI e SLO
 description: 'Em um ambiente digital cada vez mais exigente e competitivo, a tríade de SLA, SLI e SLO emerge como um farol orientador para as organizações que buscam manter a confiança dos clientes e garantir a excelência operacional. Ao compreender e integrar esses elementos em suas práticas de gestão de serviços, as empresas podem não apenas atender, mas superar as expectativas dos clientes, estabelecendo-se como líderes em um mundo movido pela qualidade, confiabilidade e inovação.'
 date: '2024-02-23 12:20:00'
 tags: [devops, observabilidade, monitoramento, sre]
-permalink: /um-pouco-sobre-sla-sli-slo/
+url: /um-pouco-sobre-sla-sli-slo/
 images: []
 resources:
 - name: "featured-image"

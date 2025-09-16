@@ -3,6 +3,7 @@ title: Instalando e gerenciando programas no Windows com Chocolatey
 date: 2018-04-17T19:38:34-03:00
 author: Sidnei Weber
 layout: post
+url: instalando-e-gerenciando-programas-no-windows-com-chocolatey
 #cover: /uploads/2018/04/Captura-de-tela-de-2018-04-17-20-38-48.png
 tags:
   - chocolatey
@@ -47,4 +48,3 @@ Há também uma página onde pode se verificar uma lista com os pacotes pelo lin
 
 Sem contar ainda em um gerenciador gráfico chamado Chocolatey GUI, que pode sem instalado com o comando _choco install chocolateygui._
 
-![chocolatey](https://chocolatey.org/content/images/ChocolateyGUI_main_screen.png)

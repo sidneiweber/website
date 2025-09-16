@@ -3,6 +3,7 @@ title: Configurando troca de senha de usuário no próximo login
 date: 2014-01-12T18:51:44-03:00
 author: Sidnei Weber
 layout: post
+url: configurando-troca-de-senha-de-usuario-no-proximo-login
 tags:
   - linux
 ---
@@ -32,4 +33,3 @@ Como podemos visualizar, a senha deste usuário &#8220;nunca expira&#8221;. Ent�
 chage -d 0 perm
 ```
 
-Fonte: <http://www.vivaolinux.com.br/dica/Configurando-troca-de-senha-de-usuario-no-proximo-login>

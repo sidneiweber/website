@@ -6,7 +6,7 @@ O Redis é um banco de dados em memória de código aberto, conhecido por seu al
 '
 date: '2024-04-02 12:20:00'
 tags: [redis, database]
-permalink: /4-alternativas-ao-redis/
+url: /4-alternativas-ao-redis/
 images: []
 resources:
 - name: "featured-image"

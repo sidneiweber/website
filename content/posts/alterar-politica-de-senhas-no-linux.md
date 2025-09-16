@@ -3,6 +3,7 @@ title: Alterar politica de senhas no Linux com PAM
 date: 2017-10-17T12:41:59-03:00
 author: Sidnei Weber
 layout: post
+url: alterar-politica-de-senhas-no-linux
 #cover: /img/uploads/2017/10/pam1.png
 tags: [linux, segurança]
 ---
@@ -68,4 +69,3 @@ SENHA INCORRETA: é simples demais
 
 Fonte:  
 [http://blog.marcelocavalcante.net/blog/2011/09/27/politica-de-senhas-no-linux-senhas-com-data-para-expirar/](http://blog.marcelocavalcante.net/blog/2011/09/27/politica-de-senhas-no-linux-senhas-com-data-para-expirar/)
-[https://www.cyberciti.biz/faq/securing-passwords-libpam-cracklib-on-debian-ubuntu-linux/](https://www.cyberciti.biz/faq/securing-passwords-libpam-cracklib-on-debian-ubuntu-linux/)

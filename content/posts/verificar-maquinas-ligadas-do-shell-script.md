@@ -3,6 +3,7 @@ title: Verificar máquinas ligadas com shell script
 date: 2013-01-28T22:58:55-03:00
 author: Sidnei Weber
 layout: post
+url: verificar-maquinas-ligadas-do-shell-script
 tags:
   - linux
   - rede
@@ -158,4 +159,3 @@ exit
 Principal</pre>
 ```
 
-Fonte: http://www.vivaolinux.com.br/dica/Ipscan-com-shell-script+dialog+nmap

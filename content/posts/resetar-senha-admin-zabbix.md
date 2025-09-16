@@ -3,6 +3,7 @@ title: Resetar senha Admin Zabbix
 date: 2017-10-17T09:44:49-03:00
 author: Sidnei Weber
 layout: post
+url: resetar-senha-admin-zabbix
 #cover: /uploads/2017/10/zabbix.png
 tags: [zabbix]
 ---

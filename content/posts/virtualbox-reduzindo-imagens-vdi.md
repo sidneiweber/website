@@ -3,6 +3,7 @@ title: 'VirtualBox: Reduzindo imagens VDI'
 date: 2009-09-29T12:35:08-03:00
 author: Sidnei Weber
 layout: post
+url: virtualbox-reduzindo-imagens-vdi
 #cover: "/virtualbox.jpg"
 tags:
   - virtualização
@@ -21,4 +22,3 @@ vboxmanage modifyvdi nome_do_seu_arquivo.vdi compact
 
 Aqui consegui reduzir de 5 para 3,8GB o meu arquivo.
 
-**Fonte**: <http://www.vivaolinux.com.br/dica/VirtualBox-Reduzindo-imagens-VDI>

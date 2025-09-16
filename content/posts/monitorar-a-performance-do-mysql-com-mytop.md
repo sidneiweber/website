@@ -3,6 +3,7 @@ title: Monitorar a performance do MySQL com Mytop
 date: 2013-04-23T12:17:04-03:00
 author: Sidnei Weber
 layout: post
+url: monitorar-a-performance-do-mysql-com-mytop
 tags:
   - mysql
 ---
@@ -106,4 +107,3 @@ Agradeço a todos pela atenção.
 
 Viva o Linux, porque nós amamos a Liberdade!
 
-[Fonte](http://www.vivaolinux.com.br/dica/Monitorar-a-performance-do-MySQL-com-Mytop)

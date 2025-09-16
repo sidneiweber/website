@@ -4,6 +4,7 @@ description: Bloquear resposta ao ping com sysctl
 date: 2017-10-20T22:21:16-03:00
 author: Sidnei Weber
 layout: post
+url: bloquear-resposta-ao-ping-com-sysctl
 tags: [linux, rede]
 ---
 A dica de hoje é super rápida e prática, para bloquear as respostas de ping podemos usar o comando sysctl:

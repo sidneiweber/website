@@ -3,6 +3,7 @@ title: Diminuindo tentativas de invasão via SSH
 date: 2015-07-06T15:45:47-03:00
 author: Sidnei Weber
 layout: post
+url: diminuindo-tentativas-de-invasao-via-ssh
 tags:
   - linux
   - servidores
@@ -20,4 +21,3 @@ O primeiro parâmetro informa que a conexão será cortada caso fique inativa po
 
 O segundo quer dizer que depois de 3 tentativas não autenticadas, 50% das conexões do IP são recusadas e quando o número de de tentavivas chegar a 6 todas as tentativas de conexões do IP serão recusadas.
 
-Fonte: Dicas-l

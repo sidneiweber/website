@@ -3,6 +3,7 @@ title: Iniciando Zabbix com Docker Compose
 date: 2018-09-06T23:16:18-03:00
 author: Sidnei Weber
 layout: post
+url: iniciando-zabbix-com-docker-compose
 #cover: /assets/img/uploads/2017/10/zabbix.png
 tags: [zabbix]
 ---

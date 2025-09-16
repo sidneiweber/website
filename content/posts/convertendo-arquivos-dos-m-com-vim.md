@@ -4,6 +4,7 @@ title: Convertendo arquivos DOS ^M com Vim
 date: 2018-11-06T10:03:27-03:00
 author: Sidnei Weber
 layout: post
+url: convertendo-arquivos-dos-m-com-vim
 #cover: /img/character-data.png
 tags: [linux, shell script]
 ---

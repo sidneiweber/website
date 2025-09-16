@@ -4,6 +4,7 @@ description: Alerta de espaço em disco via e-mail
 date: 2015-07-06T15:39:40-03:00
 author: Sidnei Weber
 layout: post
+url: alerta-de-espaco-em-disco-via-e-mail
 tags:
   - shell script
 ---

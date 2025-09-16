@@ -4,6 +4,7 @@ description: Limitando e atualizando limites de memória e CPU no docker
 date: 2017-06-13T13:55:20-03:00
 author: Sidnei Weber
 layout: post
+url: limitando-e-atualizando-limites-de-memoria-e-cpu-no-docker
 tags: [docker]
 ---
 

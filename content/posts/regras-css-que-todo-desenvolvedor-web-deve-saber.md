@@ -3,6 +3,7 @@ title: 11 regras CSS que todo desenvolvedor web deve saber
 date: 2015-07-06T15:43:13-03:00
 author: Sidnei Weber
 layout: post
+url: regras-css-que-todo-desenvolvedor-web-deve-saber
 tags:
   - css
 ---
@@ -77,4 +78,3 @@ margin-right: 1em;
 }
 ```
 
-[Fonte](http://wpmidia.com.br/desenvolvimento-web/11-regras-css-todo-desenvolvedor-web-deve-saber/)

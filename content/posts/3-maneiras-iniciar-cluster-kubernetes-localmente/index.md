@@ -6,7 +6,7 @@ O Kubernetes se tornou uma das plataformas de orquestração de containers mais 
 '
 date: '2024-01-18 12:20:00'
 tags: [k8s, kubernetes]
-permalink: /3-maneiras-iniciar-cluster-kubernetes-localmente/
+url: /3-maneiras-iniciar-cluster-kubernetes-localmente/
 images: []
 resources:
 - name: "featured-image"

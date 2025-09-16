@@ -3,6 +3,7 @@ title: Exportar e importar containers no docker
 date: 2016-11-18T14:56:26-03:00
 author: Sidnei Weber
 layout: post
+url: exportar-e-importar-containers-no-docker
 #cover: /uploads/2016/11/índice-220x159.png
 tags: [docker]
 ---
@@ -24,4 +25,3 @@ docker load < imagem.tar
 
 Fala a verdade é simples ou não é, mais fácil que isso não tem como.
 
-[Fonte](http://devopslab.com.br/docker-como-criar-uma-imagem-docker-a-partir-de-um-container-utilizando-o-docker-commit/)

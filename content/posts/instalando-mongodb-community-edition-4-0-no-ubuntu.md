@@ -6,6 +6,7 @@ description: Super fácil instalar o MongoDB no ubuntu usando gerenciador de pac
 date: 2019-03-08T16:12:05-03:00
 author: Sidnei Weber
 layout: post
+url: instalando-mongodb-community-edition-4-0-no-ubuntu
 #cover: /img/uploads/2019/03/mongodb-logo-rgb-j6w271g1xn-768x203.jpg
 tags:
     - mongo

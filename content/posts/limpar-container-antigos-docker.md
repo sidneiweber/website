@@ -4,6 +4,7 @@ title: Limpar container antigos Docker
 date: 2018-12-26T11:48:35-03:00
 author: Sidnei Weber
 layout: post
+url: limpar-container-antigos-docker
 #cover: /img/docker.png
 tags: [docker]
 ---

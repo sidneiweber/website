@@ -1,5 +1,6 @@
 ---
 layout: post
+url: instalando-nagios-instalacao-basica
 title: Instalando Nagios - Instalação básica
 date: '2017-01-31 13:11:40 -0300'
 author: Sidnei Weber

@@ -4,7 +4,7 @@ title: Criando uma API REST em Python com Flask
 description: 'Uma API REST (Representational State Transfer) é um estilo arquitetural para o design de serviços web que se baseia nos princípios fundamentais da web. Essa abordagem permite a comunicação entre sistemas distribuídos usando os protocolos padrão da web, como HTTP.'
 date: '2024-03-07 12:20:00'
 tags: [devops, observabilidade, monitoramento, sre, python, flask]
-permalink: /criando-api-rest-em-python-com-flask/
+url: /criando-api-rest-em-python-com-flask/
 images: []
 resources:
 - name: "featured-image"

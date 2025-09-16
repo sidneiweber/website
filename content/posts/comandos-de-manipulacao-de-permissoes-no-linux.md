@@ -3,6 +3,7 @@ title: Comandos de manipulação de permissões no Linux
 date: 2016-12-13T15:54:07-03:00
 author: Sidnei Weber
 layout: post
+url: comandos-de-manipulacao-de-permissoes-no-linux
 tags:
   - linux
 ---
@@ -152,4 +153,3 @@ O comando umask define as permissões iniciais quando um arquivo ou diretório f
      |   7   |    ---     |   ---   |    ---     |
      ---------------------------------------------
 
-Caso seu umask seja 022, os arquivos de texto será criados por padrão com permissão 644, ou seja, rw- para o dono, r-- para o grupo e r-- para outros. Para que alterar o umask, geralmente deve-se alterar seu valor no arquivo **/etc/profile**.

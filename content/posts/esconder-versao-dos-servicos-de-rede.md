@@ -3,6 +3,7 @@ title: Esconder versão dos serviços de rede
 date: 2009-09-29T12:16:09-03:00
 author: Sidnei Weber
 layout: post
+url: esconder-versao-dos-servicos-de-rede
 tags:
   - rede
   - servidores
@@ -62,4 +63,3 @@ Porque o ssh não apareceu quando utilizados o nmap para varrer as portas da má
 
 Porque foi alterada para uma porta que não está na lista que o nmap utiliza que está em /usr/share/nmap/nmap-services.
 
-Alguns outros programas identificam o tipo de serviço em qualquer porta que seja, mas não saberá a versão do serviço. Um outro programa que pode ser usado é o Nessus para esse tipo de verificação.

@@ -1,5 +1,6 @@
 ---
 layout: post
+url: dica-rapida-verificar-pastas-que-ocupam-mais-espaco
 title: Dica rápida - Verificar pastas que ocupam mais espaço
 date: '2017-08-17 13:15:51 -0300'
 author: Sidnei Weber

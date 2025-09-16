@@ -6,6 +6,7 @@ description: Primeitos passos usando o shell do Mongo.
 date: 2019-04-02T16:59:07-03:00
 author: Sidnei Weber
 layout: post
+url: iniciando-com-mongodb
 #cover: /img/uploads/2019/03/mongodb-logo-rgb-j6w271g1xn-768x203.jpg
 tags: [mongo]
 ---

@@ -3,6 +3,7 @@ title: Deslogar sessão ssh por inatividade
 date: 2016-09-19T13:56:05-03:00
 author: Sidnei Weber
 layout: post
+url: deslogar-sessao-ssh-por-inatividade
 #cover: /uploads/2016/09/Artigo_07_002-220x162.jpg
 tags:
   - ssh
@@ -19,4 +20,3 @@ ClientAliveInterval 30
 Com isso, caso tenha inatividade na sessão por 30 segundos o usuário será deslogado.
 
 **ClientAliveCountMax**: Define o numero máximo de envio de pacotes para saber se o cliente está ou não ativo.  
-**ClientAliveInterval:** Define um intervalo de tempo em segundos após o qual, se o terminal estiver ocioso, será finalizada a sessão.

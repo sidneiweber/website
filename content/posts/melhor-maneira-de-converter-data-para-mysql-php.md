@@ -3,6 +3,7 @@ title: 'Melhor maneira de converter data para mysql [PHP]'
 date: 2013-11-19T14:08:08-03:00
 author: Sidnei Weber
 layout: post
+url: melhor-maneira-de-converter-data-para-mysql-php
 tags:
   - mysql
   - php
@@ -25,4 +26,3 @@ $data = implode("-",array_reverse(explode("/",$data)));
 
 O resultado será: 31/04/2010 para 2010-31-04
 
-Fonte: <http://www.l9web.com.br/blog/?p=68>

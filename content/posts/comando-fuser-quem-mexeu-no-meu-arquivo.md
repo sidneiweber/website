@@ -1,5 +1,6 @@
 ---
 layout: post
+url: comando-fuser-quem-mexeu-no-meu-arquivo
 title: Comando fuser - Quem mexeu no meu arquivo
 date: '2018-11-06 09:28:53 -0300'
 author: Sidnei Weber

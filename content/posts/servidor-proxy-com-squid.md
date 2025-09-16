@@ -1,4 +1,5 @@
 ---
+url: servidor-proxy-com-squid
 title: Servidor Proxy com squid
 date: 2014-02-16T18:53:08-03:00
 author: Sidnei Weber

@@ -5,7 +5,7 @@ description: 'Muito além das métricas de CPU e memória podemos ter métricas 
 date: '2023-02-02 16:00:00'
 tags: [observabilidade, devops, sre]
 author: Sidnei Weber
-permalink: /os-quatro-sinais-ouro-observabilidade/
+url: /os-quatro-sinais-ouro-observabilidade/
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

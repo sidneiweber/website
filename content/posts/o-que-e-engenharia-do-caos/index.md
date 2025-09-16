@@ -6,7 +6,7 @@ A engenharia do caos é um método utilizado para testar serviços e ambientes d
 '
 date: '2024-11-26 08:20:00'
 tags: [devops, sre, chaos]
-permalink: /o-que-e-engenharia-do-caos/
+url: /o-que-e-engenharia-do-caos/
 images: []
 resources:
 - name: "featured-image"
