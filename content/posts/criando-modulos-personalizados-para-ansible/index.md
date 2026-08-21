@@ -6,6 +6,9 @@ date: '2026-08-20 21:00:00'
 tags: [ansible, python, devops, automação]
 url: /criando-modulos-personalizados-para-ansible/
 images: []
+resources:
+- name: "featured-image"
+  src: "featured-image.jpeg"
 author: Sidnei Weber
 ---
 <!--more-->
