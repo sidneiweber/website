@@ -11,7 +11,6 @@ resources:
   src: "featured-image.jpeg"
 author: Sidnei Weber
 ---
-<!--more-->
 
 Ansible é uma ferramenta de automação conhecida por sua abordagem *agentless*, ou seja, não é preciso instalar nada nos nós gerenciados, e pela simplicidade dos playbooks escritos em YAML. Por baixo dos panos, ele se conecta aos hosts e executa pequenos programas chamados **módulos**.
 
