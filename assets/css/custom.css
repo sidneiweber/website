@@ -127,3 +127,52 @@
 td {
     vertical-align: middle !important;
 }
+/* ---------- Fontes ---------- */
+:root {
+    --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+h1, h2, h3, h4, h5, h6,
+.main-menu nav a,
+.main-menu nav button {
+    font-family: var(--font-mono);
+    letter-spacing: -0.02em;
+}
+
+/* ---------- Marca no header (substitui o logo) ---------- */
+.site-brand {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    font-family: var(--font-mono);
+    font-size: 1.125rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: rgb(var(--color-neutral-800));
+}
+
+.dark .site-brand {
+    color: rgb(var(--color-neutral-100));
+}
+
+.site-brand-prompt {
+    color: rgb(var(--color-primary-500));
+}
+
+.site-brand:hover .site-brand-name {
+    color: rgb(var(--color-primary-500));
+}
+
+.site-brand-cursor {
+    color: rgb(var(--color-primary-500));
+    animation: brand-blink 1.1s step-end infinite;
+}
+
+@keyframes brand-blink {
+    50% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .site-brand-cursor { animation: none; }
+}
