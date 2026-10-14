@@ -28,7 +28,7 @@ googleAnalytics = "G-3P5DQB14L7"
   links = [
     { email = "mailto:sidnei.weber@gmail.com" },
     { rss = "https://sidneiweber.com.br/index.xml" },
-    { linkedin = "https://linkedin.com/in/sidneiweber" },
+    { linkedin = "https://www.linkedin.com/in/sidnei-weber" },
     { github = "https://github.com/sidneiweber" },
     { medium = "https://medium.com/@sidnei.weber" },
   ]

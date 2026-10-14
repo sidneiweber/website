@@ -23,39 +23,72 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-Olá eu sou **Sidnei Weber** :wave:.
+{{< lead >}}
+Olá, eu sou **Sidnei Weber** :wave:  
+DevOps · SRE · Software livre · Linux · Cloud
+{{< /lead >}}
 
 Formado em Segurança da Informação, apaixonado por software livre, sempre buscando me aperfeiçoar e aprender novas tecnologias e tendências do mercado. Em busca de conhecimento (como diria o ET Bilu).
 
-## Conhecimentos Técnicos
-* Redes TCP/IP;
-* Linguagem de programação: Shell Script, PHP, Python, NodeJs;
-* Ferramentas CMS: Wordpress, Magento;
-* Sistemas Operacionais: Linux, Windows;
-* Escâneres de rede (NMAP);
-* Controle de versão (GIT);
-* Monitoramento de sistemas e serviços (Nagios/Zabbix);
-* Containers (Docker);
-* Gerenciador de configurações (Ansible), Scheduler Jobs (Rundeck)
-* Segurança em servidores Linux;
-* Firewall Iptables, Pfsense, Fortinet;
-* Servidores de controle de acesso á internet (Proxy – Squid), servidor DHCP, servidor web
-* Apache, servidor de mensagens instantâneas (Openfire), servidor de impressão (Cups), servidor de usuários e arquivos (LDAP/ Samba), servidor de acesso remoto (SSH/FTP), Banco de dados (MYSQL, Postgresql).
-* Virtualização (VirtualBox, Vmware, Proxmox);
-* Cloud (AWS, GCloud)
+Quer ver minha trajetória profissional completa? Dá uma olhada no [currículo](/curriculo/).
 
-### Skills + usadas
-* AWS
-* Terraform
-* Ansible
-* Docker
+## No dia a dia
 
-### Linguagens + usadas
-* Python
-* Shell Script
+{{< keywordList >}}
+{{< keyword icon="amazon" >}} AWS {{< /keyword >}}
+{{< keyword icon="code" >}} Terraform {{< /keyword >}}
+{{< keyword icon="wand-magic-sparkles" >}} Ansible {{< /keyword >}}
+{{< keyword icon="docker" >}} Docker {{< /keyword >}}
+{{< keyword icon="code" >}} Python {{< /keyword >}}
+{{< keyword icon="code" >}} Shell Script {{< /keyword >}}
+{{< /keywordList >}}
+
+## Conhecimentos técnicos
+
+<div class="skill-grid">
+  <div class="skill-card">
+    <h3>Cloud & IaC</h3>
+    <ul><li>AWS</li><li>Google Cloud</li><li>Terraform</li><li>Ansible</li><li>Rundeck</li></ul>
+  </div>
+  <div class="skill-card">
+    <h3>Containers & virtualização</h3>
+    <ul><li>Docker</li><li>Proxmox</li><li>VMware</li><li>VirtualBox</li></ul>
+  </div>
+  <div class="skill-card">
+    <h3>Linguagens</h3>
+    <ul><li>Python</li><li>Shell Script</li><li>PHP</li><li>Node.js</li></ul>
+  </div>
+  <div class="skill-card">
+    <h3>Redes & segurança</h3>
+    <ul><li>Redes TCP/IP</li><li>Hardening de servidores Linux</li><li>iptables, pfSense, Fortinet</li><li>Nmap</li></ul>
+  </div>
+  <div class="skill-card">
+    <h3>Servidores & serviços</h3>
+    <ul><li>Apache</li><li>Squid, DHCP</li><li>LDAP / Samba</li><li>SSH / FTP</li><li>CUPS, Openfire</li></ul>
+  </div>
+  <div class="skill-card">
+    <h3>Dados & monitoramento</h3>
+    <ul><li>MySQL</li><li>PostgreSQL</li><li>Nagios</li><li>Zabbix</li></ul>
+  </div>
+  <div class="skill-card">
+    <h3>Sistemas & ferramentas</h3>
+    <ul><li>Linux</li><li>Windows</li><li>Git</li><li>WordPress, Magento</li></ul>
+  </div>
+</div>
 
 ## Certificações
-![](certificacoes.png)
 
-## Cursos
-> Tecnólogo em Segurança da Informação - UNIP (Concluído em 2022)
+![AWS Solutions Architect Associate, AWS Solutions Architect Professional, CompTIA Linux+ e LPIC-1](certificacoes.png)
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect – Professional
+- CompTIA Linux+ (powered by LPI)
+- LPIC-1 – Linux Professional Institute
+
+## Formação
+
+{{< timeline >}}
+{{< timelineItem icon="graduation-cap" header="Segurança da Informação" badge="2022" subheader="Tecnólogo · UNIP" >}}
+Curso concluído em 2022.
+{{< /timelineItem >}}
+{{< /timeline >}}

@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "Currículo"
+  pageRef = "curriculo"
+  weight = 15
+
+[[main]]
   name = "Posts"
   pageRef = "posts"
   weight = 20
@@ -24,11 +29,6 @@
   name = "Projetos"
   pageRef = "projetos"
   weight = 30
-
-#[[main]]
-#  name = "Currículo"
-#  pageRef = "curriculo"
-#  weight = 40
 
 #[[main]]
 #  identifier="music"

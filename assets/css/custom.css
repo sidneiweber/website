@@ -176,3 +176,37 @@ h1, h2, h3, h4, h5, h6,
 @media (prefers-reduced-motion: reduce) {
     .site-brand-cursor { animation: none; }
 }
+
+/* ---------- Página Sobre: grade de conhecimentos ---------- */
+.skill-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.skill-card {
+    border: 1px solid rgb(var(--color-neutral-200));
+    border-top: 3px solid rgb(var(--color-primary-500));
+    border-radius: 0.5rem;
+    padding: 1rem 1.25rem;
+}
+
+.dark .skill-card {
+    border-color: rgb(var(--color-neutral-700));
+    border-top-color: rgb(var(--color-primary-400));
+}
+
+.skill-card h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+}
+
+.skill-card ul {
+    margin: 0;
+    padding-left: 1.1rem;
+}
+
+.skill-card li {
+    margin: 0.15rem 0;
+}
