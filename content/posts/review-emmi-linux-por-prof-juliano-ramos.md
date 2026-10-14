@@ -8,3 +8,5 @@ description: Review Emmi Linux por Prof. Juliano Ramos
 tags: [linux, emmi linux]
 ---
 
+
+{{< youtube rUNrFIn9gT8 >}}

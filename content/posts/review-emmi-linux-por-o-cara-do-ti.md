@@ -7,3 +7,4 @@ url: review-emmi-linux-por-o-cara-do-ti
 tags: [linux, emmi linux]
 ---
 
+{{< youtube dNl5cblJNhs >}}
