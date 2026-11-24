@@ -36,7 +36,7 @@ Sempre tentando trabalhar ou estudar algo novo e isso pode por ventura virar um 
     </thead>
     <tbody>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="mecanicontrol.png"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="mecanicontrol.svg"/></td>
             <td>
               MecaniControl
               {{< badge >}}
@@ -45,6 +45,61 @@ Sempre tentando trabalhar ou estudar algo novo e isso pode por ventura virar um 
             </td>
             <td>Software para gestão de oficinas mecânicas.</td>
             <td><a target="_blank" href="https://www.mecanicontrol.com.br">site</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="alertally.svg"/></td>
+            <td>
+              Alertally
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Dashboard de alertas que centraliza GCP Cloud Monitoring, Prometheus Alertmanager e AWS CloudWatch.</td>
+            <td><a target="_blank" href="https://alertally.sidneiweber.com.br">site</a></br><a target="_blank" href="https://github.com/sidneiweber/alertally">github</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="cursolinux.svg"/></td>
+            <td>
+              Curso Linux
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Curso de Linux gratuito, do básico a serviços e segurança.</td>
+            <td><a target="_blank" href="https://cursolinux.sidneiweber.com.br">site</a></br><a target="_blank" href="https://github.com/sidneiweber/curso-linux">github</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="caderninho.svg"/></td>
+            <td>
+              Caderninho de Jogos
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Jogos educativos em português para crianças em fase de alfabetização (PWA).</td>
+            <td><a target="_blank" href="https://caderninho-de-jogos.vercel.app">site</a></br><a target="_blank" href="https://github.com/sidneiweber/caderninho-de-jogos">github</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="kubedesk.svg"/></td>
+            <td>
+              KubeDesk
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Aplicação desktop (Electron) para gerenciar múltiplos clusters Kubernetes de forma visual, usando o kubeconfig existente.</td>
+            <td><a target="_blank" href="https://github.com/sidneiweber/KubeDesk">github</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="masksync.svg"/></td>
+            <td>
+              MaskSync (antigo Neosync)
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Continuação do Neosync: plataforma open source para anonimizar dados de produção, gerar dados sintéticos e sincronizá-los entre ambientes.</td>
+            <td><a target="_blank" href="https://github.com/sidneiweber/neosync">github</a></td>
         </tr>
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="github.png"/></td>
